@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshuman Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **C++**
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
